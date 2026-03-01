@@ -1,7 +1,6 @@
 from playwright.sync_api import sync_playwright
 from faker import Faker
 import csv
-import time
 
 fake = Faker("pt_BR")
 
