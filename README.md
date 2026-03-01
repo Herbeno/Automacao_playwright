@@ -36,7 +36,7 @@ playwright install
 python main.py
 
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 Automacao_playwright/
 │
 ├── main.py
@@ -45,10 +45,10 @@ Automacao_playwright/
 └── README.md
 
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 Praticar automação de formulários, manipulação de dados e organização de projetos Python com ambiente virtual.
 
-## 📸 Demonstração
+## Demonstração
 
 ![Execução](img/captura1.png)
 
